@@ -1,0 +1,30 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.freegames2.github.io" resolutions="1x" timestamp="1478878601450">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="76821933" ref="index"/>
+    <file name="index.css" crc="4072339467" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="badeggsonline2loadermochi.swf" crc="168617118" seo="true" mt="1478875114000"/>
+    <file name="qwop.swf" crc="4018998959" seo="true" mt="1478875377000"/>
+    <file name="getontop.swf" crc="133053112" seo="true" mt="1478875742000"/>
+    <file name="supersmashflash.swf" crc="199673952" seo="true" mt="1478875824000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u116-4.png" crc="4077441188" ref="index"/>
+    <file name="u124-4.png" crc="472034082" ref="index"/>
+    <file name="u127-4.png" crc="3844887620" ref="index"/>
+    <file name="u139-4.png" crc="59283617" ref="index"/>
+    <file name="u142-4.png" crc="4290985444" ref="index"/>
+    <file name="nyc.jpg" crc="3907533591" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4044663835" seo="true" mt="1478878522211" redirect="true"/>
+</manifest>
